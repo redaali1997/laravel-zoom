@@ -1,4 +1,27 @@
-# Laravel Zoom
+# Laravel Zoom (FORK FOR LARAVEL 11)
+
+In order to use this fork add the following to composer.json in your project:
+
+```
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/redaali1997/laravel-zoom"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/redaali1997/laravel-api-client"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/redaali1997/laravel-oauth2-client"
+        }
+    ],
+```
+
+
+
+
 
 ## Laravel Zoom API Client
 
